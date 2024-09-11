@@ -3,11 +3,6 @@
 </p>
 <p align="center" style="font-size: 1.2rem;">A React Hooks utility library containing popular customized hooks</p>
 
-[![Build Status](https://travis-ci.com/craig1123/react-custom-hooks-amin.svg?branch=master)](https://travis-ci.com/craig1123/react-custom-hooks-amin)
-![](https://badgen.net/npm/v/react-custom-hooks-amin)
-![](https://badgen.net/bundlephobia/minzip/react-custom-hooks-amin)
-![](https://badgen.net/npm/dt/react-custom-hooks-amin)
-![](https://img.shields.io/badge/license-MIT-green.svg)
 
 ```bash
 npm i react-custom-hooks-amin --save
