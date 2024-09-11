@@ -16,4 +16,4 @@ yarn add react-custom-hooks-amin
 
 | Name                                                        | Returns                                                       | Arguments                                                                               |
 | ----------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 👁 [`useIntersectionObserver`](./docs/useIntersectionObserver.md)                       | { ref, isContentVisible }                                               | (options)                                                 |
+| 👁 [`useIntersectionObserver`](https://github.com/amintai/react-custom-hooks/blob/main/docs/useIntersectionObserver.md)                       | { ref, isContentVisible }                                               | (options)                                                 |
