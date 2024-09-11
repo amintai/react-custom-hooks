@@ -12,7 +12,7 @@ npm i react-custom-hooks-amin --save
 yarn add react-custom-hooks-amin
 ```
 
-## 🥘 Recipes Documentation
+## 🥘 Hooks Documentation
 
 | Name                                                        | Returns                                                       | Arguments                                                                               |
 | ----------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
