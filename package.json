@@ -1,6 +1,6 @@
 {
   "name": "react-custom-hooks-amin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This repository contains collection of custom hooks",
   "type": "module",
   "main": "dist/index.js",
